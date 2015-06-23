@@ -1,4 +1,4 @@
-CMAKE_MINIMUM_REQUIRED(2.8)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 PROJECT(json-rpc)
 #======================================================================
 # Recurse to subdirectories
